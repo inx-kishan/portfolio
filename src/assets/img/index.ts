@@ -5,7 +5,7 @@ import portfolio3 from "./portfolio3.jpg";
 import portfolio4 from "./portfolio4.jpg";
 import portfolio5 from "./portfolio5.jpg";
 import portfolio6 from "./portfolio6.jpg";
-
+import quote from "./quote.png";
 export const images = {
   profile,
   portfolio1,
@@ -14,4 +14,5 @@ export const images = {
   portfolio4,
   portfolio5,
   portfolio6,
+  quote,
 };
